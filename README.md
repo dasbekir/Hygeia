@@ -1,3 +1,3 @@
 # Tempstation
 
-Mätning och loggning av temperatur på personer med hjälp av Arduino och utskickning av mätresultat och annat pandemi relaterad info via WhatsApp med hjälp av Twilio API.
+Mätning och loggning av kroppstemperatur på personer med hjälp av Arduino. Visar kroppstemperatur med hjälp av en display. Loggar temperatur som även går att kolla på live.
