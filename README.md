@@ -1,3 +1,3 @@
-# Tempstation
+# Hygeia
 
-Mätning och loggning av kroppstemperatur på personer med hjälp av Arduino. Visar kroppstemperatur med hjälp av en display. Loggar temperatur som även går att kolla på live.
+Mätning av kroppstemperatur samt puls via Google Sheets med hjälp av Arduino och sensorer. Kan övervakas i realtid från vart som helst via internet. WIP 
